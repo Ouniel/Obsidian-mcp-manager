@@ -2,11 +2,11 @@
 
 <p align="center">
 
-<img alt="Python版本" src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3.10%252B-blue">
+<img alt="Python版本" src="https://img.shields.io/badge/Python-3.10%252B-blue">
 
-<img alt="MCP协议" src="https://www.google.com/search?q=https://img.shields.io/badge/MCP-Standard-purple">
+<img alt="MCP协议" src="https://img.shields.io/badge/MCP-Standard-purple">
 
-<img alt="多平台支持" src="https://www.google.com/search?q=https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Windows%252FLinux%252FmacOS-green">
+<img alt="多平台支持" src="https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Windows%252FLinux%252FmacOS-green">
 
 <img alt="开源协议" src="https://img.shields.io/badge/许可-Apache2.0-orange">
 
